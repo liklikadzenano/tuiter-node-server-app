@@ -1,6 +1,4 @@
 import people from "./users.js"  //importing the array of users  from the users.js file and call it people
-
-
 let users = people //we store this data in the variable called users.
 
 
